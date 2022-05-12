@@ -1,4 +1,4 @@
-FROM almalinux:8
+FROM almalinux/8-init
 LABEL maintainer="Sunil Sankar"
 ENV container=docker
 
